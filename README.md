@@ -34,7 +34,7 @@
 
 - :zap: In my free time, I read tech articles and practice data structures and algorithm.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rolake-olonisakin)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rolly-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rolake-olonisakin)
 
 
 <!--
