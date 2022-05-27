@@ -30,7 +30,7 @@
 </div>
 - :telescope: I’m working as a Software developer and contributing to frontend and backend for building web applications using React/Node.js.
 
-- :seedling: Exploring Cloud architecture and working on AWS clod certification.
+- :seedling: Exploring Cloud architecture and working on AWS cloud certification.
 
 - :zap: In my free time, I read tech articles and practice data structures and algorithm.
 
